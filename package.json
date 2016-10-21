@@ -1,0 +1,16 @@
+{
+  "name": "atom-certificate-view",
+  "main": "./lib/main.js",
+  "version": "0.1.0",
+  "description": "X509 certificate",
+  "keywords": ["certificate", "openssl", "pem"],
+  "repository": "https://github.com/WhoIsJingJing/atom-certificate-view",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "2.0.0",
+    "underscore-plus": "1.0.0"
+  }
+}
